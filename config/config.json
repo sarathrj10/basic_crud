@@ -9,7 +9,7 @@
   "local": {
     "database": {
       "username": "root",
-      "password": "785648222486",
+      "password": "root",
       "database": "books",
       "host": "127.0.0.1",
       "dialect": "mysql"
